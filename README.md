@@ -42,4 +42,5 @@ Valid Time of Day Inputs
 •	Dinner → Suggestions: Rice and beans, Sirloin steak, Burger and fries
 
 Contribution
+
 Contributions are welcome! Feel free to submit issues and pull requests.
