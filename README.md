@@ -34,19 +34,26 @@ Usage
 Code Structure
 
 MainActivity.kt
+
 Handles user interactions and logic for displaying meal suggestions based on input.
+
 activity_main.xml
+
 Defines the UI layout, including the input field, buttons, and list view for suggestions.
 
 Valid Time of Day Inputs
 
 •	Morning → Suggestions: Eggs, Sausage, Bacon
+
 •	Mid-Morning → Suggestions: Muffin, Pancakes, Waffles
+
 •	Afternoon → Suggestions: Steak sandwich, Pasta, Stir Fry
+
 •	Mid-Afternoon → Suggestions: Mixed nuts, Yogurt, Muesli
+
 •	Dinner → Suggestions: Rice and beans, Sirloin steak, Burger and fries
 
-Contribution
+#Contribution
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
